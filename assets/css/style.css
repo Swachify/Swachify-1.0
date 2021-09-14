@@ -876,14 +876,14 @@ section {
   color: #686470;
 }
 
-.contact form {
+form {
   width: 100%;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
-.contact .php-email-form .form-group {
+.contact .form-group {
   padding-bottom: 8px;
 }
 
